@@ -12572,15 +12572,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pintu\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "hkcsbpreportdaily",
       "projectName": "hkcsbpreportdaily",
-      "projectPath": "C:\\Users\\pintu\\OneDrive\\Documents\\UiPath\\uipath\\.local",
-      "packagesPath": "C:\\Users\\pintu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pintu\\OneDrive\\Documents\\UiPath\\uipath\\.local"
+      "projectPath": "C:\\Users\\admin\\Documents\\UiPath\\uipath\\.local",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\Documents\\UiPath\\uipath\\.local"
     },
     "frameworks": {
       "net461": {
@@ -12626,7 +12626,7 @@
             "version": "[2.0.21359.11160, 2.0.21359.11160]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\pintu\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\admin\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
