@@ -1,29 +1,27 @@
 Indent Details
 
-tCSDR/2021-2022/007414780007_
-
-Indent Id No. : tCSDR/2021-2022/00741478 11 Feb 2022 Excise District : Purba Midnapore
+Indent Id No. : tCSDR/2021-2022/00754126 18 Feb 2022 Excise District : Paschim Midnapore
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Basic Particulars :-
 
-Indent Id No & Date                    tCSDR/2021-2022/00741478, 11 Feb 2022
+Indent Id No & Date                    tCSDR/2021-2022/00754126, 18 Feb 2022
 
-Consignee ID No., Name & Address (Indented to)
-11/2017/0023 : MANNA RESTAURANT.,PO: PASCHIM CHILKA, PS PANSKURA,PURBA
-MEDINIPUR,PURBA MIDNAPORE,721647
+Consignee ID No., Name & Address (Indented by)
+10/2006/0148 : CHOICE FL OFF SHOP,WARD NO.-6 DHARMA MIDNAPUR TOWN,PASCHIM
+MIDNAPORE,721101
 
-Consignor ID No., Name & Address (Indented by)
+Consignor ID No., Name & Address (Indented to)
 Bevco - BEVCO Warehouse at Himadri Khan CS Bottling Plant , "[Himadri Khan CS Bottling Plant cum
 Warehouse]
 Talqui, Midnapur; Abas Dist : Paschim Midnapore", 721102
 
 Declarations by the Applicant :-
 
-Transport Route Specifications         kgp to bijoynagar(63 KM )
+Transport Route Specifications         Talkui to dharma(3 KM )
 
-Preferred Pickup Date         11/02/2022
+Preferred Pickup Date         18/02/2022
 
 Description of Liquor  to be Transported under this Permit-cum-Pass
 
@@ -36,9 +34,11 @@ Alt Quantity
 Value (Rs.)
 Amount (Rs.)
 
-JELLA     , 300 Ml. 28.00 7-0 210 5880.00 5315.10
+SUN FIGHTER SPIRIT     , 600 Ml. 120.00 20-0 400 48000.00 45136.00
 
-Total : 5315.10
+Total : 45136.00
 
-Generated On : 11/02/2022                                                                                                                                                                                   <NIC-WBSC>
+** TCS and Sales Tax extra
+
+Generated On : 18/02/2022                                                                                                                                                                                   <NIC-WBSC>
 Page No:1
